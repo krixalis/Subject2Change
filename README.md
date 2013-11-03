@@ -6,7 +6,8 @@ To be done
 
   * Generate world & put it in a grid
   * ability to check contents of a cell  
-  >via mouse-hover/-click
+
+>via mouse-hover/-click
 
 Done
 ----
