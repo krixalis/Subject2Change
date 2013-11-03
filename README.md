@@ -1,7 +1,7 @@
 Subject2Change
 =========
 
-To be done
+ToDo
 ----------
 
   * Generate world & put it in a grid
